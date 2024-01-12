@@ -3,8 +3,6 @@ Trying to do all the github commands to see the result
 
 Git is a powerful version control system used for tracking changes in source code during software development. Here's a list of common Git commands along with explanations and examples:
 
-Certainly! Here is the text without the **:
-
 ### 1. git init
    - Description: Initializes a new Git repository.
    - Example:
