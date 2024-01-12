@@ -110,16 +110,16 @@ Git is a powerful version control system used for tracking changes in source cod
      ```
 ### 16. You want from a branch labs to return to the latest satble version of the master
 
-```bash
-# Ensure you are on the labs branch
-git checkout labs
+    ```bash
+    # Ensure you are on the labs branch
+    git checkout labs
 
-# Fetch the latest changes from the remote repository
-git fetch origin
+    # Fetch the latest changes from the remote repository
+    git fetch origin
 
-# Reset the labs branch to match the master branch
-git reset --hard origin/master
+    # Reset the labs branch to match the master branch
+    git reset --hard origin/master
 
-# Force-push the changes to the remote repository (be careful with force-push)
-git push origin labs --force
-```
+    # Force-push the changes to the remote repository (be careful with force-push)
+    git push origin labs --force
+    ```
