@@ -1,5 +1,5 @@
 ## Github Tutorial
-trying to do all the github commands to see the result
+Trying to do all the github commands to see the result
 
 Git is a powerful version control system used for tracking changes in source code during software development. Here's a list of common Git commands along with explanations and examples:
 
